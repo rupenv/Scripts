@@ -36,4 +36,3 @@ rm -rf /Users/Shared/__MACOSX
 rm -rf /Users/Shared/Defaults
 rm -rf /Users/Shared/Defaults.zip
 rm -rf /Users/Shared/GRAPHISOFT
-
