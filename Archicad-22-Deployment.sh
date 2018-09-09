@@ -7,7 +7,7 @@ curl -L -o /Users/Shared/ARCHICAD-22-UKI-3009-1.3.dmg https://dl.graphisoft.com/
 hdiutil attach /Users/Shared/ARCHICAD-22-UKI-3009-1.3.dmg -nobrowse
 
 
-#Download maber defaults zip folder from S3 - includes templates, work environment and other files for ArchiCAD 22
+#Download Defaults zip folder from S3 - includes templates, work environment and other files for ArchiCAD 22
 curl -L -o /Users/Shared/Defaults.zip https://XXXXXXXXX/Defaults.zip
 
 #Change directory
